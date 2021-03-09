@@ -1,0 +1,765 @@
+[
+  {
+    "value": 1,
+    "label": "Store Service",
+    "items": [
+      {
+        "value": 1,
+        "label": "Behavior & Communication",
+        "items": [
+          {
+            "value": 1,
+            "label": "Inappropriate use of language"
+          },
+          {
+            "value": 2,
+            "label": "Speed of serving"
+          },
+          {
+            "value": 3,
+            "label": "Inappropriate manners and attitudes"
+          },
+          {
+            "value": 4,
+            "label": "Not following SOP"
+          },
+          {
+            "value": 5,
+            "label": "Cheating behavior (cash change/ mis-scanned item(s))"
+          },
+          {
+            "value": 6,
+            "label": "Refuse Momo cash-in service"
+          },
+          {
+            "value": 7,
+            "label": "Refuse Card payment service"
+          },
+          {
+            "value": 8,
+            "label": "Refuse Payoo service"
+          },
+          {
+            "value": 9,
+            "label": "Refuse CK GO service"
+          }
+        ]
+      },
+      {
+        "value": 2,
+        "label": "Knowledge",
+        "items": [
+          {
+            "value": 10,
+            "label": "Promotional programs"
+          },
+          {
+            "value": 11,
+            "label": "E-voucher payment"
+          },
+          {
+            "value": 12,
+            "label": "Momo payment"
+          },
+          {
+            "value": 13,
+            "label": "Momo cash-in service"
+          },
+          {
+            "value": 14,
+            "label": "Card payment"
+          },
+          {
+            "value": 15,
+            "label": "Zalo Pay payment"
+          },
+          {
+            "value": 16,
+            "label": "Food services"
+          },
+          {
+            "value": 17,
+            "label": "GM products"
+          },
+          {
+            "value": 18,
+            "label": "Lazada service"
+          },
+          {
+            "value": 19,
+            "label": "CK GO service"
+          },
+          {
+            "value": 20,
+            "label": "VN Pay payment"
+          },
+          {
+            "value": 21,
+            "label": "Phone/ Game card"
+          },
+          {
+            "value": 22,
+            "label": "Continuity"
+          },
+          {
+            "value": 22,
+            "label": "Red Season"
+          }
+        ]
+      },
+      {
+        "value": 3,
+        "label": "Product Quality",
+        "items": [
+          {
+            "value": 21,
+            "label": "Bad quality foods/ drinks"
+          },
+          {
+            "value": 22,
+            "label": "Expired products"
+          },
+          {
+            "value": 23,
+            "label": "Damaged packaging products"
+          },
+          {
+            "value": 24,
+            "label": "Food poisoning"
+          }
+        ]
+      },
+      {
+        "value": 4,
+        "label": "Hygiene",
+        "items": [
+          {
+            "value": 25,
+            "label": "Food processing"
+          },
+          {
+            "value": 26,
+            "label": "Food counter"
+          },
+          {
+            "value": 27,
+            "label": "Food tools"
+          },
+          {
+            "value": 28,
+            "label": "Seating area"
+          },
+          {
+            "value": 29,
+            "label": "Toilet/ Floor"
+          }
+        ]
+      },
+      {
+        "value": 5,
+        "label": "Facility",
+        "items": [
+          {
+            "value": 30,
+            "label": "Broken/ Clogged toilet"
+          },
+          {
+            "value": 31,
+            "label": "Air conditioner/ fan/ speakers"
+          },
+          {
+            "value": 32,
+            "label": "Internet (no signal/ slow)"
+          },
+          {
+            "value": 33,
+            "label": "Unusable services"
+          },
+          {
+            "value": 34,
+            "label": "Card payment service"
+          },
+          {
+            "value": 35,
+            "label": "Zalo payment"
+          },
+          {
+            "value": 36,
+            "label": "Momo payment"
+          },
+          {
+            "value": 37,
+            "label": "Momo cash-in service"
+          },
+          {
+            "value": 38,
+            "label": "Promotional programs"
+          },
+          {
+            "value": 39,
+            "label": "CK GO service"
+          }
+        ]
+      },
+      {
+        "value": 6,
+        "label": "Security",
+        "items": [
+          {
+            "value": 40,
+            "label": "Attitude of Guards"
+          },
+          {
+            "value": 41,
+            "label": "No lock"
+          },
+          {
+            "value": 42,
+            "label": "No guard"
+          },
+          {
+            "value": 43,
+            "label": "Loss property"
+          }
+        ]
+      },
+      {
+        "value": 7,
+        "label": "Other Cases",
+        "items": [
+          {
+            "value": 44,
+            "label": "Out of Food tools/ ingredients"
+          },
+          {
+            "value": 45,
+            "label": "Out of gifts"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "value": 2,
+    "label": "Compliment",
+    "items": [
+      {
+        "value": 8,
+        "label": "",
+        "items": [
+          {
+            "value": 46,
+            "label": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "value": 3,
+    "label": "Career",
+    "items": [
+      {
+        "value": 9,
+        "label": "Ask for the interview information",
+        "items": [
+          {
+            "value": 47,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 10,
+        "label": "Ask for the training information",
+        "items": [
+          {
+            "value": 48,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 101,
+        "label": "Ask for the recruitment information",
+        "items": [
+          {
+            "value": 48,
+            "label": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "value": 4,
+    "label": "Ex-staff Feedback",
+    "items": [
+      {
+        "value": 11,
+        "label": "Ask for the timeline to get salary",
+        "items": []
+      },
+      {
+        "value": 412,
+        "label": "Ask the timeline to get social insurance book and resignation letter",
+        "items": []
+      }
+    ]
+  },
+  {
+    "value": 5,
+    "label": "Potential Franchisee",
+    "items": [
+      {
+        "value": 12,
+        "label": "",
+        "items": [
+          {
+            "value": 46,
+            "label": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "value": 6,
+    "label": "Site Suggestion",
+    "items": [
+      {
+        "value": 13,
+        "label": "",
+        "items": [
+          {
+            "value": 46,
+            "label": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "value": 7,
+    "label": "Suppliers' Proposal",
+    "items": [
+      {
+        "value": 14,
+        "label": "",
+        "items": [
+          {
+            "value": 46,
+            "label": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "value": 8,
+    "label": "General Info",
+    "items": [
+      {
+        "value": 801,
+        "label": "VN pay payment service",
+        "items": []
+      },
+      {
+        "value": 15,
+        "label": "Methods of payment",
+        "items": []
+      },
+      {
+        "value": 16,
+        "label": "Bill payment service",
+        "items": [
+          {
+            "value": 51,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 17,
+        "label": "Phone card/ game card",
+        "items": [
+          {
+            "value": 52,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 18,
+        "label": "Card payment service",
+        "items": [
+          {
+            "value": 53,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 19,
+        "label": "MoMo cash in service",
+        "items": [
+          {
+            "value": 54,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 20,
+        "label": "MoMo payment service",
+        "items": [
+          {
+            "value": 55,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 21,
+        "label": "Zalopay payment service",
+        "items": [
+          {
+            "value": 56,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 22,
+        "label": "Delivery service",
+        "items": [
+          {
+            "value": 57,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 23,
+        "label": "Logistics service",
+        "items": [
+          {
+            "value": 58,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 24,
+        "label": "E-voucher service",
+        "items": [
+          {
+            "value": 59,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 25,
+        "label": "CK GO service",
+        "items": [
+          {
+            "value": 60,
+            "label": "Out of stock"
+          },
+          {
+            "value": 61,
+            "label": "Difference price POS vs Website"
+          },
+          {
+            "value": 62,
+            "label": "Rider could not contact the customer"
+          },
+          {
+            "value": 2563,
+            "label": "Speed of serving"
+          },
+          {
+            "value": 2564,
+            "label": "Internet (no signal/ slow)"
+          },
+          {
+            "value": 2565,
+            "label": "Change CK GO password"
+          },
+          {
+            "value": 2566,
+            "label": "Checking Order"
+          },
+          {
+            "value": 2567,
+            "label": "CS confirm re-order to store/ customer/ Zeek"
+          }
+        ]
+      },
+      {
+        "value": 26,
+        "label": "GM products",
+        "items": [
+          {
+            "value": 63,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 27,
+        "label": "Bulk purchase",
+        "items": [
+          {
+            "value": 64,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 28,
+        "label": "Food service",
+        "items": [
+          {
+            "value": 65,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 29,
+        "label": "Other services",
+        "items": [
+          {
+            "value": 66,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 30,
+        "label": "Promotional programs",
+        "items": [
+          {
+            "value": 67,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 31,
+        "label": "Continuity",
+        "items": [
+          {
+            "value": 68,
+            "label": "T&C"
+          },
+          {
+            "value": 69,
+            "label": "Minigame"
+          },
+          {
+            "value": 70,
+            "label": "Eggy box"
+          },
+          {
+            "value": 71,
+            "label": "Prize after collecting full set of Eggy"
+          },
+          {
+            "value": 72,
+            "label": "Other inquiries"
+          }
+        ]
+      },
+      {
+        "value": 32,
+        "label": "Minigame",
+        "items": [
+          {
+            "value": 73,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 33,
+        "label": "Store's information (address, telephone number, wifi password, music list, toilet, seating area...)",
+        "items": [
+          {
+            "value": 74,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 34,
+        "label": "Ask for help checking voucher status",
+        "items": [
+          {
+            "value": 75,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 35,
+        "label": "Ask for help checking transaction history",
+        "items": [
+          {
+            "value": 76,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 36,
+        "label": "VAT invoice",
+        "items": [
+          {
+            "value": 77,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 37,
+        "label": "Ask for help finding forgotten item",
+        "items": [
+          {
+            "value": 78,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 38,
+        "label": "Opening hours of store/ seating area",
+        "items": [
+          {
+            "value": 79,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 39,
+        "label": "Office's information (address, telephone number of departments)",
+        "items": [
+          {
+            "value": 80,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 40,
+        "label": "Ask if Circle K is responsible for handling lost property",
+        "items": [
+          {
+            "value": 81,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 41,
+        "label": "Ask if Circle K would open new store in future",
+        "items": [
+          {
+            "value": 82,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 42,
+        "label": "Ask if Circle K has membership card",
+        "items": [
+          {
+            "value": 83,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 43,
+        "label": "Staff's inquiries",
+        "items": [
+          {
+            "value": 84,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 44,
+        "label": "Other inquires",
+        "items": [
+          {
+            "value": 85,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 45,
+        "label": "No issue happened",
+        "items": [
+          {
+            "value": 86,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 46,
+        "label": "Red Season",
+        "items": [
+          {
+            "value": 87,
+            "label": "T&C"
+          },
+          {
+            "value": 88,
+            "label": "Minigame"
+          },
+          {
+            "value": 89,
+            "label": "Other inquiries"
+          },
+          {
+            "value": 90,
+            "label": "Customer cannot catch on the game"
+          },
+          {
+            "value": 91,
+            "label": "Customer cannot redeem the gift"
+          },
+          {
+            "value": 92,
+            "label": "Customer can not log in app"
+          },
+          {
+            "value": 93,
+            "label": "Customer feedback about CK App loophole"
+          },
+          {
+            "value": 94,
+            "label": "Customer account is locked"
+          },
+          {
+            "value": 95,
+            "label": "Printer was out of paper so customer cannot scan barcode"
+          },
+          {
+            "value": 96,
+            "label": "Customer cannot scan barcode in receipt"
+          }
+
+        ]
+      }
+    ]
+  }
+]
