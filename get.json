@@ -776,7 +776,7 @@
       },
       {
         "value": 99,
-        "label": "The internet line was interrupt the phone/ Customer interrupt the phone",
+        "label": "The internet line was interrupted the phone/ Customer interrupt the phone",
         "items": [
           {
             "value": 100,
