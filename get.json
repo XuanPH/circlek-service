@@ -202,6 +202,10 @@
           {
             "value": 39,
             "label": "CK GO service"
+          },
+          {
+            "value": 40,
+            "label": "Grab Moca Payment Service"
           }
         ]
       },
