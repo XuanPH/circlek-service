@@ -108,6 +108,10 @@
           {
             "value": 24,
             "label": "Grab Moca payment"
+          },
+          {
+            "value": 25,
+            "label": "Grab Moca Payment Service"
           }
         ]
       },
