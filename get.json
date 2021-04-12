@@ -781,16 +781,6 @@
             "label": ""
           }
         ]
-      },
-      {
-        "value": 99,
-        "label": "The call was interrupted by the internet line/ The customer interrupted the phone",
-        "items": [
-          {
-            "value": 100,
-            "label": ""
-          }
-        ]
       }
     ]
   }
