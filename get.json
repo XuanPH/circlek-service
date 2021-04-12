@@ -502,10 +502,6 @@
           {
             "value": 2567,
             "label": "CS confirm re-order to store/ customer/ Zeek"
-          },
-          {
-            "value": 2568,
-            "label": "The call was interrupted by no signal internet/ customer"
           }
         ]
       },
@@ -778,6 +774,16 @@
         "items": [
           {
             "value": 98,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 99,
+        "label": "The call was interrupted by no signal internet/ customer",
+        "items": [
+          {
+            "value": 100,
             "label": ""
           }
         ]
