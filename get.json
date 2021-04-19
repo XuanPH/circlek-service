@@ -787,6 +787,16 @@
             "label": ""
           }
         ]
+      },
+      {
+        "value": 101,
+        "label": "Event ticket",
+        "items": [
+          {
+            "value": 102,
+            "label": ""
+          }
+        ]
       }
     ]
   }
