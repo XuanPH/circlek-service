@@ -502,6 +502,10 @@
           {
             "value": 2567,
             "label": "CS confirm re-order to store/ customer/ Zeek"
+          },
+          {
+            "value": 2568,
+            "label": "CK GO service timing"
           }
         ]
       },
@@ -794,6 +798,16 @@
         "items": [
           {
             "value": 102,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 103,
+        "label": "CK Club App",
+        "items": [
+          {
+            "value": 104,
             "label": ""
           }
         ]
