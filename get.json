@@ -811,6 +811,16 @@
             "label": ""
           }
         ]
+      },
+      {
+        "value": 105,
+        "label": "Ticket was be created by post’s comment",
+        "items": [
+          {
+            "value": 106,
+            "label": ""
+          }
+        ]
       }
     ]
   }
