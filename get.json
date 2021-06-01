@@ -206,6 +206,10 @@
           {
             "value": 40,
             "label": "Grab Moca Payment Service"
+          },
+          {
+            "value": 41,
+            "label": "VN Pay payment"
           }
         ]
       },
