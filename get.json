@@ -106,8 +106,12 @@
             "label": "Red Season"
           },
           {
-            "value": 25,
+            "value": 24,
             "label": "Grab Moca Payment Service"
+          }
+           {
+            "value": 25,
+            "label": "Shopee Pay payment service"
           }
         ]
       },
@@ -822,6 +826,16 @@
         "items": [
           {
             "value": 106,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 107,
+        "label": "Shopee Pay payment service",
+        "items": [
+          {
+            "value": 108,
             "label": ""
           }
         ]
