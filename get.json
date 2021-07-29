@@ -847,7 +847,7 @@
     "label": "Delivery Service",
     "items": [
       {
-        "value": 1,
+        "value": 901,
         "label": "CK GO",
         "items": [
           {  
@@ -877,11 +877,11 @@
           {
             "value": 7,
             "label": "Return"
-          },
+          }
         ]
       },
       {
-        "value": 2,
+        "value": 902,
         "label": "NOW",
         "items": [
           {  
@@ -911,11 +911,11 @@
           {
             "value": 7,
             "label": "Return"
-          },
+          }
         ]
       },
       {
-        "value": 3,
+        "value": 903,
         "label": "GOJEK",
         "items": [
           {  
@@ -945,7 +945,7 @@
           {
             "value": 7,
             "label": "Return"
-          },
+          }
         ]
       }
     ]
