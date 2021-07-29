@@ -841,5 +841,113 @@
         ]
       }
     ]
+  },
+  {
+    "value": 9,
+    "label": "Delivery Service",
+    "items": [
+      {
+        "value": 1,
+        "label": "CK GO",
+        "items": [
+          {  
+            "value": 1,
+            "label": "Price discrepancy"
+          },
+          {
+            "value": 2,
+            "label": "Out of stock"
+          },
+          {
+            "value": 3,
+            "label": "Checking order’s status"
+          },
+          {
+            "value": 4,
+            "label": "Speed of delivery"
+          },
+          {
+            "value": 5,
+            "label": "Cheating behavior's shipper"
+          },
+          {
+            "value": 6,
+            "label": "Rider could not contact to customer"
+          },
+          {
+            "value": 7,
+            "label": "Return"
+          },
+        ]
+      },
+      {
+        "value": 2,
+        "label": "NOW",
+        "items": [
+          {  
+            "value": 1,
+            "label": "Price discrepancy"
+          },
+          {
+            "value": 2,
+            "label": "Out of stock"
+          },
+          {
+            "value": 3,
+            "label": "Checking order’s status"
+          },
+          {
+            "value": 4,
+            "label": "Speed of delivery"
+          },
+          {
+            "value": 5,
+            "label": "Cheating behavior's shipper"
+          },
+          {
+            "value": 6,
+            "label": "Rider could not contact to customer"
+          },
+          {
+            "value": 7,
+            "label": "Return"
+          },
+        ]
+      },
+            {
+        "value": 3,
+        "label": "GOJEK",
+        "items": [
+          {  
+            "value": 1,
+            "label": "Price discrepancy"
+          },
+          {
+            "value": 2,
+            "label": "Out of stock"
+          },
+          {
+            "value": 3,
+            "label": "Checking order’s status"
+          },
+          {
+            "value": 4,
+            "label": "Speed of delivery"
+          },
+          {
+            "value": 5,
+            "label": "Cheating behavior's shipper"
+          },
+          {
+            "value": 6,
+            "label": "Rider could not contact to customer"
+          },
+          {
+            "value": 7,
+            "label": "Return"
+          },
+        ]
+      }
+    ]
   }
 ]
