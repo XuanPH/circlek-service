@@ -877,6 +877,10 @@
           {
             "value": 7,
             "label": "Return"
+          },
+          {
+            "value": 8,
+            "label": "Lack of product"
           }
         ]
       },
@@ -911,6 +915,10 @@
           {
             "value": 7,
             "label": "Return"
+          },
+          {
+            "value": 8,
+            "label": "Lack of product"
           }
         ]
       },
@@ -945,6 +953,10 @@
           {
             "value": 7,
             "label": "Return"
+          },
+          {
+            "value": 8,
+            "label": "Lack of product"
           }
         ]
       }
