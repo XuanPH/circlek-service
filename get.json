@@ -839,6 +839,24 @@
             "label": ""
           }
         ]
+      },
+      {
+        "value": 109,
+        "label": "CK Club App",
+        "items": [
+          {
+            "value": 110,
+            "label": "How to register App"
+          },
+          {
+            "value": 111,
+            "label": "How to redeem Coupons/ Gifts"
+          },
+          {
+            "value": 112,
+            "label": "How to play game on app"
+          }
+        ]
       }
     ]
   },
