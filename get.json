@@ -214,6 +214,10 @@
           {
             "value": 41,
             "label": "VN Pay payment"
+          },
+          {
+            "value": 42,
+            "label": "Shopee Pay Service"
           }
         ]
       },
