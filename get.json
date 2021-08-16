@@ -893,6 +893,10 @@
           {
             "value": 8,
             "label": "Lack of product"
+          },
+          {
+            "value": 9,
+            "label": "Shipper did not queue in the line and call to customer to cancel the order"
           }
         ]
       },
@@ -931,6 +935,10 @@
           {
             "value": 8,
             "label": "Lack of product"
+          },
+          {
+            "value": 9,
+            "label": "Shipper did not queue in the line and call to customer to cancel the order"
           }
         ]
       },
@@ -969,6 +977,10 @@
           {
             "value": 8,
             "label": "Lack of product"
+          },
+          {
+            "value": 9,
+            "label": "Shipper did not queue in the line and call to customer to cancel the order"
           }
         ]
       }
