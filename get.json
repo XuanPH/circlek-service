@@ -112,6 +112,10 @@
            {
             "value": 25,
             "label": "Shopee Pay payment service"
+          },
+          {
+            "value": 26,
+            "label": "Store staff did not input the VAT information on the system to issue invoice"
           }
         ]
       },
@@ -254,6 +258,10 @@
           {
             "value": 45,
             "label": "Out of gifts"
+          },
+          {
+            "value": 46,
+            "label": "IT dept. did not input the VAT information on the system to issue invoice"
           }
         ]
       }
