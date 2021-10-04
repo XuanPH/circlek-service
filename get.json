@@ -42,6 +42,10 @@
           {
             "value": 9,
             "label": "Refuse CK GO service"
+          },
+          {
+            "value": 10,
+            "label": "Refuse Shopee Pay payment service"
           }
         ]
       },
