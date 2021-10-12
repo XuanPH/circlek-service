@@ -336,6 +336,11 @@
         "value": 412,
         "label": "Ask the timeline to get social insurance book and resignation letter",
         "items": []
+      },
+       {
+        "value": 413,
+        "label": "Asked for the contract and insurance book",
+        "items": []
       }
     ]
   },
@@ -956,7 +961,7 @@
       },
       {
         "value": 903,
-        "label": "GOJEK",
+        "label": "GOFOOD",
         "items": [
           {  
             "value": 1,
