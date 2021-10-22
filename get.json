@@ -46,6 +46,10 @@
           {
             "value": 10,
             "label": "Refuse Shopee Pay payment service"
+          },
+          {
+            "value": 11,
+            "label": "Refuse to provide VAT register no. on bill"
           }
         ]
       },
@@ -120,6 +124,10 @@
           {
             "value": 26,
             "label": "Store staff did not input the VAT information on the system to issue invoice"
+          },
+          {
+            "value": 27,
+            "label": "Issue the VAT register no. on bill"
           }
         ]
       },
@@ -659,8 +667,20 @@
         "label": "VAT invoice",
         "items": [
           {
-            "value": 77,
-            "label": ""
+            "value": 361,
+            "label": "Asked for provide the VAT register no."
+          },
+          {
+            "value": 362,
+            "label": "Asked for provide an e-invoice"
+          },
+          {
+            "value": 363,
+            "label": "Asked for update the detail information of invoice"
+          },
+           {
+            "value": 364,
+            "label": "Asked for the minutes of invoice adjustment"
           }
         ]
       },
@@ -846,6 +866,14 @@
           {
             "value": 112,
             "label": "How to play game on app"
+          },
+          {
+            "value": 113,
+            "label": "Error when registering app"
+          },
+          {
+            "value": 114,
+            "label": "How can upgrade to Gold member"
           }
         ]
       },
