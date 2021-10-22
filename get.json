@@ -543,6 +543,10 @@
           {
             "value": 2568,
             "label": "CK GO service timing"
+          },
+          {
+            "value": 2569,
+            "label": "Requested for VAT invoice"
           }
         ]
       },
@@ -874,6 +878,10 @@
           {
             "value": 114,
             "label": "How can upgrade to Gold member"
+          },
+          {
+            "value": 115,
+            "label": "Checking item's stock to redeem gift/ Coupon"
           }
         ]
       },
