@@ -50,6 +50,10 @@
           {
             "value": 11,
             "label": "Refuse to provide VAT register no. on bill"
+          },
+          {
+            "value": 12,
+            "label": "Refuse to Smartpay payment service"
           }
         ]
       },
@@ -128,7 +132,12 @@
           {
             "value": 27,
             "label": "Issue the VAT register no. on bill"
+          },
+          {
+            "value": 28,
+            "label": "Smartpay payment service"
           }
+          
         ]
       },
       {
@@ -882,6 +891,10 @@
           {
             "value": 115,
             "label": "Checking item's stock to redeem gift/ Coupon"
+          },
+          {
+            "value": 116,
+            "label": "Asked for checking gift/ coupon/ game"
           }
         ]
       },
@@ -901,6 +914,16 @@
         "items": [
           {
             "value": 108,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 109,
+        "label": "Smartpay payment service",
+        "items": [
+          {
+            "value": 110,
             "label": ""
           }
         ]
