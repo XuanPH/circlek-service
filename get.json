@@ -136,8 +136,11 @@
           {
             "value": 28,
             "label": "Smartpay payment service"
+          },
+          {
+            "value": 29,
+            "label": "CK CLUB app"
           }
-          
         ]
       },
       {
@@ -243,6 +246,10 @@
           {
             "value": 42,
             "label": "Shopee Pay Service"
+          },
+          {
+            "value": 43,
+            "label": "Scanner did not work well"
           }
         ]
       },
@@ -890,7 +897,7 @@
           },
           {
             "value": 115,
-            "label": "Checking item's stock to redeem gift/ Coupon"
+            "label": "Checking stock to redeem gift/ coupon"
           },
           {
             "value": 116,
