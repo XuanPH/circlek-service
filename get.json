@@ -140,6 +140,10 @@
           {
             "value": 29,
             "label": "CK CLUB app"
+          },
+          {
+            "value": 30,
+            "label": "Bill payment service"
           }
         ]
       },
