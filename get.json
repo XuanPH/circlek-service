@@ -254,6 +254,10 @@
           {
             "value": 43,
             "label": "Scanner did not work well"
+          },
+          {
+            "value": 44,
+            "label": "POS did not update CRM"
           }
         ]
       },
@@ -906,6 +910,22 @@
           {
             "value": 116,
             "label": "Asked for checking gift/ coupon/ game"
+          },
+          {
+            "value": 117,
+            "label": "User did not know where to play game on app"
+          },
+          {
+            "value": 118,
+            "label": "User confused about activating coupon to use"
+          },
+          {
+            "value": 119,
+            "label": "User did not receive noti although they did not turn off noti"
+          },
+          {
+            "value": 120,
+            "label": "User did not receive free voucher"
           }
         ]
       },
