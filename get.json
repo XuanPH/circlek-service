@@ -926,6 +926,10 @@
           {
             "value": 120,
             "label": "User did not receive free voucher"
+          },
+          {
+            "value": 121,
+            "label": "How to collect the points/transactions on CK CLUB app"
           }
         ]
       },
@@ -1088,6 +1092,10 @@
           {
             "value": 9,
             "label": "Shipper did not queue in the line and call to customer to cancel the order"
+          },
+          {
+            "value": 10,
+            "label": "Shipper did not pick up the items as ordering"
           }
         ]
       }
