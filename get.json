@@ -930,6 +930,10 @@
           {
             "value": 121,
             "label": "How to collect the points/transactions on CK CLUB app"
+          },
+          {
+            "value": 122,
+            "label": "Asked for privacy policy when customer register on CK CLUB app"
           }
         ]
       },
