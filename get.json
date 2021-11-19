@@ -144,6 +144,10 @@
           {
             "value": 30,
             "label": "Bill payment service"
+          },
+          {
+            "value": 31,
+            "label": "FE CREDIT Installment payment"
           }
         ]
       },
@@ -934,6 +938,10 @@
           {
             "value": 122,
             "label": "Asked for privacy policy when customer register on CK CLUB app"
+          },
+          {
+            "value": 123,
+            "label": "Lost the coupons/ gifts/ turn play game"
           }
         ]
       },
@@ -963,6 +971,16 @@
         "items": [
           {
             "value": 110,
+            "label": ""
+          }
+        ]
+      },
+      {
+        "value": 110,
+        "label": "FE CREDIT Installment payment",
+        "items": [
+          {
+            "value": 111,
             "label": ""
           }
         ]
