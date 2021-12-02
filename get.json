@@ -306,6 +306,10 @@
           {
             "value": 46,
             "label": "IT dept. did not input the VAT information on the system to issue invoice"
+          },
+          {
+            "value": 47,
+            "label": "There was noise in the front of store"
           }
         ]
       }
@@ -946,6 +950,14 @@
           {
             "value": 123,
             "label": "Lost the coupons/ gifts/ turn play game"
+          },
+          {
+            "value": 124,
+            "label": "Survey: How do you know about CK Club?"
+          },
+          {
+            "value": 125,
+            "label": "Asked for offering for Gold member"
           }
         ]
       },
