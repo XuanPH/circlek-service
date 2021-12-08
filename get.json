@@ -958,6 +958,14 @@
           {
             "value": 125,
             "label": "Asked for offering for Gold member"
+          },
+          {
+            "value": 126,
+            "label": "Asked for hot deal on CK CLUB app"
+          },
+          {
+            "value": 127,
+            "label": "Lost the transaction history"
           }
         ]
       },
