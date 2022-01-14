@@ -263,9 +263,13 @@
             "value": 44,
             "label": "POS did not update CRM"
           },
-           {
+          {
             "value": 45,
             "label": "Smartpay payment service"
+          },
+          {
+            "value": 46,
+            "label": "Lazada service"
           }
         ]
       },
