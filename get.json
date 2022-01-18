@@ -314,6 +314,10 @@
           {
             "value": 47,
             "label": "There was noise in the front of store"
+          },
+          {
+            "value": 48,
+            "label": "Bad quality of plastic bag"
           }
         ]
       }
