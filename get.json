@@ -1020,6 +1020,16 @@
             "label": ""
           }
         ]
+      },
+      {
+        "value": 111,
+        "label": "MB card",
+        "items": [
+          {
+            "value": 112,
+            "label": ""
+          }
+        ]
       }
     ]
   },
