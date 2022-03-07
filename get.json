@@ -986,6 +986,10 @@
           {
             "value": 128,
             "label": "Congratulation the winner"
+          },
+          {
+            "value": 129,
+            "label": "Get voucher from CK Club app"
           }
         ]
       },
