@@ -54,6 +54,10 @@
           {
             "value": 12,
             "label": "Refuse to Smartpay payment service"
+          },
+          {
+            "value": 13,
+            "label": "Refuse VN payment service"
           }
         ]
       },
