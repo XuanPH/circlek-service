@@ -282,6 +282,10 @@
           {
             "value": 48,
             "label": "Microwave did not heat food quickly and efficiently"
+          },
+          {
+            "value": 49,
+            "label": "Repairing or Replacing a Broken Chiller/ Open Case"
           }
         ]
       },
