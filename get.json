@@ -1006,6 +1006,10 @@
           {
             "value": 131,
             "label": "How to change the personal information on app"
+          },
+          {
+            "value": 132,
+            "label": "Do not show the My ID on app"
           }
         ]
       },
