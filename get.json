@@ -1010,6 +1010,10 @@
           {
             "value": 132,
             "label": "Do not show the My ID on app"
+          },
+          {
+            "value": 133,
+            "label": "How to upgrade the higher privileges"
           }
         ]
       },
