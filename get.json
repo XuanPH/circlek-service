@@ -200,6 +200,10 @@
           {
             "value": 29,
             "label": "Toilet/ Floor"
+          },
+          {
+            "value": 30,
+            "label": "In front of store"
           }
         ]
       },
