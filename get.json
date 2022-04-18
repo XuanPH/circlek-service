@@ -1120,6 +1120,10 @@
           {
             "value": 10,
             "label": "Shipper could not deliver and call customer to cancel order"
+          },
+          {
+            "value": 11,
+            "label": "Partner did not update product information on app"
           }
         ]
       },
@@ -1166,6 +1170,10 @@
           {
             "value": 10,
             "label": "Shopee Food app did not update the promotion program"
+          },
+          {
+            "value": 11,
+            "label": "Partner did not update product information on app"
           }
         ]
       },
@@ -1216,6 +1224,10 @@
           {
             "value": 11,
             "label": "Go Food app did not update the promotion program"
+          },
+          {
+            "value": 12,
+            "label": "Partner did not update product information on app"
           }
         ]
       }
