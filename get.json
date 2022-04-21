@@ -1124,6 +1124,10 @@
           {
             "value": 11,
             "label": "Partner did not update product information on app"
+          },
+          {
+            "value": 12,
+            "label": "Customer could not order on the CK GO platform"
           }
         ]
       },
