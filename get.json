@@ -290,6 +290,10 @@
           {
             "value": 49,
             "label": "Repairing or Replacing a Broken Chiller/ Open Case"
+          },
+          {
+            "value": 50,
+            "label": "Power socket"
           }
         ]
       },
