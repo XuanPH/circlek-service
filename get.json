@@ -325,7 +325,7 @@
         "items": [
           {
             "value": 44,
-            "label": "Out of Food tools/ ingredients"
+            "label": "Out of Food tools/ ingredients/ plastic bag"
           },
           {
             "value": 45,
@@ -342,10 +342,6 @@
           {
             "value": 48,
             "label": "Bad quality of plastic bag"
-          },
-          {
-            "value": 49,
-            "label": "Out of Food tools/ ingredients/ plastic bag"
           }
         ]
       }
