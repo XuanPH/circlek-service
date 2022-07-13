@@ -152,6 +152,10 @@
           {
             "value": 31,
             "label": "FE CREDIT Installment payment"
+          },
+          {
+            "value": 32,
+            "label": "VBI Motobike insurance"
           }
         ]
       },
@@ -294,6 +298,10 @@
           {
             "value": 50,
             "label": "Power socket"
+          },
+          {
+            "value": 51,
+            "label": "VBI Motobike insurance"
           }
         ]
       },
@@ -473,6 +481,11 @@
     "label": "General Info",
     "items": [
       {
+        "value": 800,
+        "label": "VBI Motobike insurance",
+        "items": []
+      },
+	  {
         "value": 801,
         "label": "VN pay payment service",
         "items": []
