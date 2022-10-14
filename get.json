@@ -302,6 +302,10 @@
           {
             "value": 51,
             "label": "VBI Motobike insurance"
+          },
+          {
+            "value": 52,
+            "label": "An electric stove is not working"
           }
         ]
       },
