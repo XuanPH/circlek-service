@@ -156,6 +156,10 @@
           {
             "value": 32,
             "label": "VBI Motobike insurance"
+          },
+          {
+            "value": 33,
+            "label": "Delivery Service"
           }
         ]
       },
@@ -778,6 +782,10 @@
            {
             "value": 364,
             "label": "Asked for the minutes of invoice adjustment"
+          },
+           {
+            "value": 365,
+            "label": "Asked for the link to view the E-invoice Details"
           }
         ]
       },
