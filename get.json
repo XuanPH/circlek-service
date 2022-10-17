@@ -306,6 +306,10 @@
           {
             "value": 52,
             "label": "An electric stove is not working"
+          },
+          {
+            "value": 53,
+            "label": "POS did not show information on screen"
           }
         ]
       },
