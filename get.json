@@ -314,6 +314,10 @@
           {
             "value": 53,
             "label": "POS did not show information on screen"
+          },
+          {
+            "value": 54,
+            "label": "Store did not has cash change"
           }
         ]
       },
