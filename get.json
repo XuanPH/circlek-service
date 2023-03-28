@@ -1059,6 +1059,14 @@
           {
             "value": 133,
             "label": "How to upgrade the higher privileges"
+          },
+          {
+            "value": 13311,
+            "label": "Cash coupon with zero value"
+          },
+          {
+            "value": 13312,
+            "label": "Do not show the stamp on app"
           }
         ]
       },
