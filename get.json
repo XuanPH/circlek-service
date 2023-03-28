@@ -1067,6 +1067,14 @@
           {
             "value": 13312,
             "label": "Do not show the stamp on app"
+          },
+          {
+            "value": 13313,
+            "label": "Do not receive OTP"
+          },
+          {
+            "value": 13314,
+            "label": "Receive OTP but can not access the app"
           }
         ]
       },
