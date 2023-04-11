@@ -125,7 +125,7 @@
             "value": 24,
             "label": "Grab Moca Payment Service"
           },
-           {
+          {
             "value": 25,
             "label": "Shopee Pay payment service"
           },
@@ -160,6 +160,10 @@
           {
             "value": 33,
             "label": "Delivery Service"
+          },
+          {
+            "value": 234,
+            "label": "Staff did not inform the customer to access VAT link to get red invoice"
           }
         ]
       },
@@ -441,7 +445,7 @@
         "label": "Ask the timeline to get social insurance book and resignation letter",
         "items": []
       },
-       {
+      {
         "value": 413,
         "label": "Asked for the contract and insurance book",
         "items": []
@@ -505,7 +509,7 @@
         "label": "VBI Motobike insurance",
         "items": []
       },
-	  {
+      {
         "value": 801,
         "label": "VN pay payment service",
         "items": []
@@ -783,11 +787,11 @@
             "value": 363,
             "label": "Asked for update the detail information of invoice"
           },
-           {
+          {
             "value": 364,
             "label": "Asked for the minutes of invoice adjustment"
           },
-           {
+          {
             "value": 365,
             "label": "Asked for the link to view the E-invoice Details"
           }
@@ -927,7 +931,6 @@
             "value": 96,
             "label": "Customer cannot scan barcode in receipt"
           }
-
         ]
       },
       {
@@ -1103,8 +1106,8 @@
         "label": "Smartpay payment service",
         "items": [
           {
-            "value": 110,
-            "label": ""
+            "value": 10901,
+            "label": "Transaction is time out"
           }
         ]
       },
@@ -1127,6 +1130,16 @@
             "label": ""
           }
         ]
+      },
+      {
+        "value": 1191,
+        "label": "Errors of banks of customers cards was being charged wrongly",
+        "items": [
+          {
+            "value": 116,
+            "label": ""
+          }
+        ]
       }
     ]
   },
@@ -1138,7 +1151,7 @@
         "value": 901,
         "label": "CK GO",
         "items": [
-          {  
+          {
             "value": 1,
             "label": "Price discrepancy"
           },
@@ -1192,7 +1205,7 @@
         "value": 902,
         "label": "SHOPEE FOOD",
         "items": [
-          {  
+          {
             "value": 1,
             "label": "Price discrepancy"
           },
@@ -1242,7 +1255,7 @@
         "value": 903,
         "label": "GOFOOD",
         "items": [
-          {  
+          {
             "value": 1,
             "label": "Price discrepancy"
           },
