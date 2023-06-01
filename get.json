@@ -1082,10 +1082,14 @@
           {
             "value": 13314,
             "label": "Receive OTP but can not access the app"
-          }, 
+          },
           {
-               "value": 13315,
-               "label": "User did not receive the gift from supplier"
+            "value": 13315,
+            "label": "User did not receive the gift from supplier"
+          },
+          {
+            "value": 13316,
+            "label": "Cash Coupon not applied due to promotional alcohol items"
           }
         ]
       },
