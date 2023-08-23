@@ -186,6 +186,10 @@
           {
             "value": 24,
             "label": "Food poisoning"
+          },
+          {
+            "value": 241,
+            "label": "Defective goods"
           }
         ]
       },
@@ -1090,7 +1094,11 @@
           {
             "value": 13316,
             "label": "Cash Coupon not applied due to promotional alcohol items"
-          }
+          },
+          {
+            "value": 13317,
+            "label": "Get status and obtain of delivery gifts"
+          },
         ]
       },
       {
@@ -1152,6 +1160,30 @@
             "label": ""
           }
         ]
+      },
+      {
+        "value": 1192,
+        "label": "Ask for Apple pay payment service",
+        "items": [ {
+            "value": 11921,
+            "label": ""
+          }]
+      },
+      {
+        "value": 1193,
+        "label": "Ask for Google pay payment service",
+        "items": [ {
+            "value": 11931,
+            "label": ""
+          }]
+      },
+      {
+        "value": 1193,
+        "label": "Ask for Samsung pay payment service",
+        "items": [ {
+            "value": 11931,
+            "label": ""
+          }]
       }
     ]
   },
