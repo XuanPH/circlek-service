@@ -58,6 +58,9 @@
           {
             "value": 13,
             "label": "Refuse VN payment service"
+          }, {
+            "value": 1311,
+            "label": "Store staff steals customer's belongings"
           }
         ]
       },
